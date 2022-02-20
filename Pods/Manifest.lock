@@ -1,0 +1,24 @@
+PODS:
+  - GoogleMaps (6.0.1):
+    - GoogleMaps/Maps (= 6.0.1)
+  - GoogleMaps/Base (6.0.1)
+  - GoogleMaps/Maps (6.0.1):
+    - GoogleMaps/Base
+  - OpalImagePicker (3.0.0)
+
+DEPENDENCIES:
+  - GoogleMaps (= 6.0.1)
+  - OpalImagePicker
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GoogleMaps
+    - OpalImagePicker
+
+SPEC CHECKSUMS:
+  GoogleMaps: c213fc2334b7374144cede914da779b99be0ab74
+  OpalImagePicker: 38e772dd93a54431fc516b33e1f337c50f745834
+
+PODFILE CHECKSUM: 8d2d2dbea90c365216256ff76ceb23bd27379bda
+
+COCOAPODS: 1.11.2
